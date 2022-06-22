@@ -1,0 +1,1 @@
+We'd want to use nonlinear scales when the data has a nonlinear relationship. The best way to figure out which pattern (log or square root) the data aligns with the most would be to perform a box cox transformation or simply model it and compare the R2 values.  
